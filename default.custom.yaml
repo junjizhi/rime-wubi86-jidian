@@ -4,13 +4,11 @@
 #   ~/Library/Rime       (macos)
 #   %APPDATA%\Rime       (windows)
 
-
-
 patch:
   schema_list:
+    - schema: wubi86_jidian_pinyin
     - schema: wubi86_jidian
     - schema: numbers
-    - schema: wubi86_jidian_pinyin
     - schema: wubi86_jidian_trad
     - schema: wubi86_jidian_trad_pinyin
     - schema: pinyin_simp
